@@ -1,5 +1,5 @@
-# My docs
+Bem vindo a minha documentação pessoal.  
+Esta documentação está a ser desenvolvida para servir de base em todos projectos em que eu esteja envolvido, sejam eles pessoais ou para a empresa em que trabalho.
 
-A estrutura ainda por ser desenvolvida, por enquanto explore o que já está a ser criado.
 
 [Documentação](docs/README.md)

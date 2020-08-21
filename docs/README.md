@@ -5,3 +5,4 @@
 Penso que ao produzir uma documentação do processo de desenvolvimento de software me tornarei mais confiante sobre o que faço e me sentirei mais confiante de que caminho na direcção certa sempre.
 
 [Processo de desenvolvimento de software](process/build-software.md)
+[Como preencher relatório](process/fill-report.md)
