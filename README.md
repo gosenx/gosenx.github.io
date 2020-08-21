@@ -1,2 +1,5 @@
-# gosenx.github.io
-Docs and stuff.
+# My docs
+
+A estrutura ainda por ser desenvolvida, por enquanto explore o que já está a ser criado.
+
+[Documentação](docs/README.md)
